@@ -18,4 +18,4 @@ My GitHub page is http://github.com/themariodude.
 
 * Lab 3
 
-    I found a lot of motivation coding this lab, as it seemed that were finally able to apply these concepts into something applicable to the real world. Creating functions and being able to calculate prices  for the first time felt great, because I knew that these skills can be used in the real world. Furthermore, the process of creating strategies and execution was fun as well.
+    I found a lot of motivation coding this lab, as it seemed that we were finally able to apply these concepts into something applicable to the real world. Creating functions and being able to calculate prices  for the first time felt great, because I knew that these skills can be used in the real world. Furthermore, the process of creating strategies and execution was fun as well.
